@@ -1,10 +1,10 @@
 # ✅ Minimalist Todo Django REST API
 
-[![GitHub top language](https://img.shields.io/github/languages/top/matiasvallejosdev/todo-rest-api-django?color=1081c2)](https://github.com/matiasvallejosdev/todo-rest-api-django/search?l=c%23)
-![License](https://img.shields.io/github/license/matiasvallejosdev/todo-rest-api-django?label=license&logo=github&color=f80&logoColor=fff)
-![Forks](https://img.shields.io/github/forks/matiasvallejosdev/todo-rest-api-django.svg)
-![Stars](https://img.shields.io/github/stars/matiasvallejosdev/todo-rest-api-django.svg)
-![Watchers](https://img.shields.io/github/watchers/matiasvallejosdev/todo-rest-api-django.svg)
+[![GitHub top language](https://img.shields.io/github/languages/top/brankopoledic/todo-rest-api-django?color=1081c2)](https://github.com/brankopoledic/todo-rest-api-django/search?l=c%23)
+![License](https://img.shields.io/github/license/brankopoledic/todo-rest-api-django?label=license&logo=github&color=f80&logoColor=fff)
+![Forks](https://img.shields.io/github/forks/brankopoledic/todo-rest-api-django.svg)
+![Stars](https://img.shields.io/github/stars/brankopoledic/todo-rest-api-django.svg)
+![Watchers](https://img.shields.io/github/watchers/brankopoledic/todo-rest-api-django.svg)
 
 🚀 Experience Minimalist in action: [View Production](https://minimalist-tasks.vercel.app/)
 
@@ -21,7 +21,7 @@ Welcome to the Minimalist Todo Django REST API repository, a backend solution de
 
 ## 🧑🏻‍💻 Frontend Repository
 
-For the frontend part of this project, the Next.js 14 application can be found in the following repository: [Minimalist Todo App Next.js](https://github.com/matiasvallejosdev/todo-rest-api-django).
+For the frontend part of this project, the Next.js 14 application can be found in the following repository: [Minimalist Todo App Next.js](https://github.com/brankopoledic/todo-rest-api-django).
 
 ## 🛠 Installation
 
