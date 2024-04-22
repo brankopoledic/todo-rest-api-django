@@ -1,6 +1,6 @@
 # ✅ Minimalist Todo Django REST API
 
-[![GitHub top language](https://img.shields.io/github/languages/top/matiasvallejosdev/todo-rest-api-django?color=1081c2)](https://github.com/matiasvallejosdev/todo-rest-api-django/search?l=c%23)
+[![GitHub top language](https://img.shields.io/github/languages/top/matiasvallejosdev/todo-rest-api-django?color=1081c2)](https://github.com/brankopoledic/todo-rest-api-django/search?l=c%23)
 ![License](https://img.shields.io/github/license/matiasvallejosdev/todo-rest-api-django?label=license&logo=github&color=f80&logoColor=fff)
 ![Forks](https://img.shields.io/github/forks/matiasvallejosdev/todo-rest-api-django.svg)
 ![Stars](https://img.shields.io/github/stars/matiasvallejosdev/todo-rest-api-django.svg)
@@ -21,7 +21,7 @@ Welcome to the Minimalist Todo Django REST API repository, a backend solution de
 
 ## 🧑🏻‍💻 Frontend Repository
 
-For the frontend part of this project, the Next.js 14 application can be found in the following repository: [Minimalist Todo App Next.js](https://github.com/matiasvallejosdev/todo-rest-api-django).
+For the frontend part of this project, the Next.js 14 application can be found in the following repository: [Minimalist Todo App Next.js](https://github.com/brankopoledic/todo-rest-api-django).
 
 ## 🛠 Installation
 
@@ -61,7 +61,7 @@ The Minimalist Todo App Next.js is an open-source project, and contributions are
 If you have any questions or need further assistance, you can contact the project maintainer:
 
 - Name: Matias Vallejos
-- 🌐 [matiasvallejos.com](https://matiasvallejos.com/)
+- 🌐 [brankopoledic.com](https://brankopoledic.com/)
 
 Feel free to reach out if you have any inquiries or need any additional information about the project.
 
